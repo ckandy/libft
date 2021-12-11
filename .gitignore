@@ -1,0 +1,7 @@
+test.c
+*.out
+.DS_Store
+*.d
+*.o
+*.dSYM
+main.c
